@@ -4,11 +4,11 @@
 
 ## Demo
 
-[Aquí](https://viewer-app.vercel.app/) se puede ver una demo del proyecto.
+[Here](https://rainbow-todo.vercel.app/) you can see a demo of the project.
 
 ## Component
 
-La página está pensada para visualizar fotos que provienen del banco de fotos Unsplash de una forma sencilla, atractiva y moderna. El botón tiene la funcionalidad de visualizar nuevas imágenes implementada y las fotos tienen un efecto hover con zoom.
+This app was made to have and easy-to-use to-to app, but at the same time with an attractive visual component. It is fully responsive, it can be used in any device.
 
 ## Installation
 
