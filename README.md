@@ -8,7 +8,7 @@
 
 ## Component
 
-This app was made to have and easy-to-use to-to app, but at the same time with an attractive visual component. It is fully responsive, it can be used in any device.
+This app was made to have and easy-to-use to-do app, but at the same time with an attractive visual component. It is fully responsive, it can be used in any device.
 
 ## Installation
 
@@ -18,7 +18,7 @@ To install the project:
 
 ```shell
     # Clone repository
-    git clone https://github.com/Lahali/viewer_app
+    git clone https://github.com/Lahali/rainbow-todo
 ```
 
 In the project directory, you can run:
