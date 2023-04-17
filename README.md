@@ -10,6 +10,10 @@
 
 This app was made to have and easy-to-use to-do app, but at the same time with an attractive visual component. It is fully responsive, it can be used in any device.
 
+## Stack
+
+This app was developed using React 18, CSS3 and Styled Components.
+
 ## Installation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,13 +35,11 @@ In the project directory, you can run:
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ```
 
-## Stack
-
-For this project I use React and Styled Components.
-
 ## Contact info
 
-matamua82@gmail.com
+This app was developed by Halimeh Habib
+
+Contact: matamua82@gmail.com
 
 ## License
 

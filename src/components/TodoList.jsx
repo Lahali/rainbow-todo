@@ -3,7 +3,7 @@ import TodoItem from "./TodoItem"
 import { colors } from "../styles"
 
 const TodoList = ({ todos, onComplete, onDeleteItem }) => {
-  const [currentColor, setCurrentColor] = useState(0)
+  const [currentColor] = useState(0)
 
   const rainbow = [
     colors.red,
